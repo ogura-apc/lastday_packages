@@ -1,0 +1,18 @@
+
+PLAY [all] *********************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [ogura_ansible]
+ok: [ogura_web]
+ok: [ogura_jenkins]
+
+TASK [Update packages] *********************************************************
+ok: [ogura_web]
+ok: [ogura_ansible]
+ok: [ogura_jenkins]
+
+PLAY RECAP *********************************************************************
+ogura_ansible              : ok=2    changed=0    unreachable=0    failed=0   
+ogura_jenkins              : ok=2    changed=0    unreachable=0    failed=0   
+ogura_web                  : ok=2    changed=0    unreachable=0    failed=0   
+
