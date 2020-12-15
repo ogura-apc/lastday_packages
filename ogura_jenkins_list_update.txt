@@ -49,8 +49,6 @@ file-libs.x86_64                    5.11-36.amzn2.0.1                amzn2-core
 findutils.x86_64                    1:4.5.11-6.amzn2                 amzn2-core 
 freetype.x86_64                     2.8-14.amzn2.1                   amzn2-core 
 gdisk.x86_64                        0.8.10-3.amzn2                   amzn2-core 
-gettext.x86_64                      0.19.8.1-3.amzn2                 amzn2-core 
-gettext-libs.x86_64                 0.19.8.1-3.amzn2                 amzn2-core 
 glib2.x86_64                        2.56.1-7.amzn2.0.1               amzn2-core 
 glibc.x86_64                        2.26-39.amzn2                    amzn2-core 
 glibc-all-langpacks.x86_64          2.26-39.amzn2                    amzn2-core 
