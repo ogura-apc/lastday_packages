@@ -18,7 +18,6 @@ bind-utils.x86_64                   32:9.11.4-26.P2.amzn2.2          amzn2-core
 binutils.x86_64                     2.29.1-30.amzn2                  amzn2-core 
 blktrace.x86_64                     1.0.5-9.amzn2                    amzn2-core 
 ca-certificates.noarch              2019.2.32-76.amzn2.0.3           amzn2-core 
-cloud-init.noarch                   19.3-3.amzn2                     amzn2-core 
 cloud-utils-growpart.noarch         0.31-2.amzn2                     amzn2-core 
 containerd.x86_64                   1.4.1-2.amzn2                    amzn2extra-docker
 coreutils.x86_64                    8.22-24.amzn2                    amzn2-core 
@@ -62,7 +61,7 @@ initscripts.x86_64                  9.49.47-1.amzn2.0.1              amzn2-core
 iproute.x86_64                      4.15.0-1.amzn2.0.4               amzn2-core 
 iptables.x86_64                     1.8.4-10.amzn2.1.2               amzn2-core 
 irqbalance.x86_64                   2:1.5.0-4.amzn2.0.1              amzn2-core 
-jenkins.noarch                      2.270-1.1                        jenkins    
+jenkins.noarch                      2.271-1.1                        jenkins    
 kbd.x86_64                          1.15.5-15.amzn2                  amzn2-core 
 kbd-legacy.noarch                   1.15.5-15.amzn2                  amzn2-core 
 kbd-misc.noarch                     1.15.5-15.amzn2                  amzn2-core 

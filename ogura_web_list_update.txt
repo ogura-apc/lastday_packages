@@ -17,7 +17,6 @@ bind-utils.x86_64                    32:9.11.4-26.P2.amzn2.2          amzn2-core
 binutils.x86_64                      2.29.1-30.amzn2                  amzn2-core
 blktrace.x86_64                      1.0.5-9.amzn2                    amzn2-core
 ca-certificates.noarch               2019.2.32-76.amzn2.0.3           amzn2-core
-cloud-init.noarch                    19.3-3.amzn2                     amzn2-core
 cloud-utils-growpart.noarch          0.31-2.amzn2                     amzn2-core
 coreutils.x86_64                     8.22-24.amzn2                    amzn2-core
 cpio.x86_64                          2.11-28.amzn2                    amzn2-core
