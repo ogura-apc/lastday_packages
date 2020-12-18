@@ -300,7 +300,6 @@ systemd.x86_64                      219-57.amzn2.0.12                amzn2-core
 systemd-libs.x86_64                 219-57.amzn2.0.12                amzn2-core 
 systemd-sysv.x86_64                 219-57.amzn2.0.12                amzn2-core 
 systemtap-runtime.x86_64            4.2-1.amzn2.0.1                  amzn2-core 
-tar.x86_64                          2:1.26-35.amzn2                  amzn2-core 
 tcpdump.x86_64                      14:4.9.2-4.amzn2.1               amzn2-core 
 teamd.x86_64                        1.27-9.amzn2                     amzn2-core 
 tzdata.noarch                       2020a-1.amzn2                    amzn2-core 
