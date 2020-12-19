@@ -307,28 +307,6 @@ Obsoleting Packages
 kpatch-runtime.noarch                0.8.0-4.amzn2                    amzn2-core
     kpatch.noarch                    0.4.0-3.amzn2                    installed 
 python2-rpm.x86_64                   4.11.3-40.amzn2.0.5              amzn2-core
-    rpm-python.x86_64                4.11.3-25.amzn2.0.3              installed non-zero return code
-ogura_jenkins | FAILED | rc=100 >>
-Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
-
-amazon-linux-extras.noarch          1.6.13-1.amzn2                   amzn2-core 
-amazon-linux-extras-yum-plugin.noarch
-                                    1.6.13-1.amzn2                   amzn2-core 
-amazon-ssm-agent.x86_64             3.0.161.0-1.amzn2                amzn2-core 
-at.x86_64                           3.1.13-24.amzn2                  amzn2-core 
-avahi-libs.x86_64                   0.6.31-20.amzn2                  amzn2-core 
-aws-cfn-bootstrap.noarch            1.4-34.amzn2                     amzn2-core 
-awscli.noarch                       1.18.147-1.amzn2.0.1             amzn2-core 
-bash.x86_64                         4.2.46-34.amzn2                  amzn2-core 
-bind-export-libs.x86_64             32:9.11.4-26.P2.amzn2.2          amzn2-core 
-bind-libs.x86_64                    32:9.11.4-26.P2.amzn2.2          amzn2-core 
-bind-libs-lite.x86_64               32:9.11.4-26.P2.amzn2.2          amzn2-core 
-bind-license.noarch                 32:9.11.4-26.P2.amzn2.2          amzn2-core 
-bind-utils.x86_64                   32:9.11.4-26.P2.amzn2.2          amzn2-core 
-binutils.x86_64                     2.29.1-30.amzn2                  amzn2-core 
-blktrace.x86_64                     1.0.5-9.amzn2                    amzn2-core 
-ca-certificates.noarch              2019.2.32-76.amzn2.0.3           amzn2-core 
-cloud-utils-growpart.noarch         0.31-2.amzn2                     amzn2-core 
 containerd.x86_64                   1.4.1-2.amzn2                    amzn2extra-docker
 coreutils.x86_64                    8.22-24.amzn2                    amzn2-core 
 cpio.x86_64                         2.11-28.amzn2                    amzn2-core 
